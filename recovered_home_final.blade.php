@@ -1,0 +1,2 @@
+"@extends('layouts.app')\n\n@section('content')\n    <!-- Hero Section -->\n    <section class=\"hero\" id=\"home\">\n        <h1 class=\"animate__animated animate__fadeInDown\">Learn - Grow - Achieve</h1>\n        <p class=\"subheading animate__animated a
+<truncated 21809 bytes>
