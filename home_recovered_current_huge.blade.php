@@ -1,0 +1,2 @@
+"@extends('layouts.app')\n\n@section('content')\n<div class=\"homepage-modern\">\n    <!-- 🏛️ Premium Hero Section -->\n    <section class=\"hero-section py-5\" style=\"background: #fff; min-height: 80vh; display: flex; align-items: center;\">\n      
+<truncated 12291 bytes>

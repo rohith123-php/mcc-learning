@@ -1,0 +1,2 @@
+"const fs = require('fs');\n\nconst data = fs.readFileSync('C:/Users/DELL/.gemini/antigravity/brain/b0190972-9a18-4ddd-bd15-9b25bfb84822/.system_generated/logs/overview.txt', 'utf8');\nconst lines = data.split('\\n');\n\nlet bestContent = '';\nfor (let lin
+<truncated 1164 bytes>
